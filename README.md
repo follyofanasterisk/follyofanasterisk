@@ -1,6 +1,10 @@
-## Hi there 👋
+## Hello!
 
 I'm a simulator specialist who loves his fake worlds more than the real world.
+
+### Projects
+
+Currently, I am working on a library simulation.
 
 <!--
 **follyofanasterisk/follyofanasterisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

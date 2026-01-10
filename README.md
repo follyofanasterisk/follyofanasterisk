@@ -4,7 +4,7 @@ I'm a simulator specialist who loves his fake worlds more than the real world.
 
 ### Projects
 
-Currently, I am working on a library simulation.
+Currently, I am working on a simple simulation called plant simulation.
 
 <!--
 **follyofanasterisk/follyofanasterisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
